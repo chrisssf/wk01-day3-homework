@@ -20,11 +20,11 @@ p get_falk
 
 p stops.fetch(2)
 
-for stop in stops
-  if stop == "Falkirk High"
-    return stop
-  end
-end
+# for stop in stops
+#   if stop == "Falkirk High"
+#     return stop
+#   end
+# end
 
 # p stops.pop(5)
 # p stops
